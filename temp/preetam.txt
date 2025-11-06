@@ -1,0 +1,157 @@
+          ವಿ.ತಾ.ವಿ ಪದವಿ / ಸ್ನಾ ತಕೋತ್ತ             ರ ಪದವಿ      ಪರೀಕ್ಷೆ ಯ ಸಾಮಯಿಕ ಫಲಿತಾಂಶ ಜೂನ / ಜುಲೈ                             - ೨೦೨೪.
+
+                        VTU PROVISIONAL           RESULTS       OF UG / PG June / July - 2024 EXAMINATION.
+
+        University Seat Number                                                  : 2JR21CS059
+
+        Student Name                                                            : PREETAM BUDAVI
+
+                                                                  Semester : 5
+
+         Subject                      Subject Name                       Internal       External       Total      Result      Announced
+
+          Code                                                            Marks          Marks                                 / Updated
+
+                                                                                                                                    on
+
+         21CS51         AUTOMATA THEORY AND                               NE (4)           NE             -          X        2024-09-10
+
+                        COMPILER DESIGN
+
+         21CS52         COMPUTER NETWORKS                                 NE (0)           NE             -          X        2024-09-10
+
+       21CSL582         C# PROGRAMMING                                       21              0           21          A        2024-09-10
+
+         21CS53         DATABASE MANAGEMENT                               NE (2)           NE             -          X        2024-09-10
+
+                        SYSTEMS
+
+         21CS54         ARTIFICIAL INTELLIGENCE                           NE (0)           NE             -          X        2024-09-10
+
+                        AND MACHINE LEARNING
+
+        21CSL55         DATABASE MANAGEMENT                                  21              0           21          A        2024-09-10
+
+                        SYSTEMS LABORATORY WITH
+
+                        MINI PROJECT
+
+        21RMI56         RESEARCH METHODOLOGY &                            NE (5)           NE             -          X        2024-09-10
+
+                        INTELLECTUAL PROPERTY
+
+                        RIGHTS
+
+        21CIV57         ENVIRONMENTAL STUDIES                             NE (0)           NE             -          X        2024-09-10
+
+                                                                  Semester : 4
+
+          Subject                      Subject Name                      Internal       External       Total      Result      Announced
+
+            Code                                                          Marks          Marks                                 / Updated
+
+                                                                                                                                    on
+
+       21MATCS41           MATHEMATICAL                                   NE (0)           NE             -          X        2024-10-15
+
+                           FOUNDATIONS FOR
+
+                           COMPUTING, PROBABILITY
+
+                           & STATISTICS
+
+         21CSL481          WEB PROGRAMMING                                   27              0           27          A        2024-10-15
+          21CS42           DESIGN AND ANALYSIS OF                            20              0           20          A        2024-10-15
+
+                           ALGORITHMS
+
+          21CS43           MICROCONTROLLER AND                               20              0           20          A        2024-10-15
+
+                           EMBEDDED SYSTEM
+
+          21CS44           OPERATING SYSTEM                               NE (0)           NE             -          X        2024-10-15
+
+          21BE45           BIOLOGY FOR ENGINEERS                          NE (0)           NE             -          X        2024-10-15
+
+         21CSL46           PYTHON PROGRAMMING                                26              3           29          F        2024-10-15
+
+                           LABORATORY
+
+          21CIP47          CONSTITUTION OF INDIA &                        NE (0)           NE             -          X        2024-10-15
+
+                           PROFESSIONAL ETHICS
+
+          21UH49           UNIVERSAL HUMAN VALUES                         NE (0)           NE             -          X        2024-10-15
+
+                           AND PROFESSIONAL ETHICS
+
+                                                                  Semester : 3
+
+         Subject                     Subject Name                        Internal       External       Total      Result      Announced
+
+          Code                                                            Marks          Marks                                 / Updated
+
+                                                                                                                                    on
+
+       21MAT31          TRANSFORM CALCULUS,                                  21              0           21          A        2024-10-15
+
+                        FOURIER SERIES AND
+
+                        NUMERICAL TECHNIQUES
+
+         21CS32         DATA STRUCTURES AND                                  27              0           27          A        2024-10-15
+
+                        APPLICATIONS
+
+         21CS33         ANALOG AND DIGITAL                                   31              0           31          A        2024-10-15
+
+                        ELECTRONICS
+
+         21CS34         COMPUTER ORGANIZATION                                25              0           25          A        2024-10-15
+
+                        AND ARCHITECTURE
+
+                                                                  Semester : 2
+
+         Subject                     Subject Name                        Internal       External       Total      Result      Announced
+
+          Code                                                            Marks          Marks                                 / Updated
+
+                                                                                                                                    on
+
+       21MAT21          ADVANCED CALCULUS AND                                21              0           21          F        2024-10-15
+
+                        NUMERICAL METHODS
+
+        21ELE23         BASIC ELECTRICAL                                     21              0           21          A        2024-10-15
+
+                        ENGINEERING
+
+        21CIV24         ELEMENTS OF CIVIL ENGG AND                           21              0           21          A        2024-10-15
+
+                        MECHANICS
+
+                                                     ನಾಮಕರಣ / ಸಂಕ್ಷೇಪಣಗಳು
+
+                                                     Nomenclature / Abbreviations
+
+              P -> PASS              F -> FAIL            A -> ABSENT             W -> WITHHELD              X, NE -> NOT    ELIGIBLE
+            Note :
+
+            1) Results of some subjects of some students are not appearing due to reasons                  such  as,
+
+            a) CIE not Available
+
+            b) SEE not available
+
+            because of technical reasons etc, however they will be updated shortly.
+
+            2) Withheld results to be announced later.
+
+                                                                                                                ಸಹಿ/-
+
+                                                                                                                 Sd/-
+
+                                                                                              ಕುಲಸಚಿವರು (ಮೌಲ್ಯ ಮಾಪನ)
+
+                                                                                                 REGISTRAR (EVALUATION)
