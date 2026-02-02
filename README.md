@@ -58,8 +58,7 @@ The **Result Management System** is built to bridge the gap between static PDF r
 
 1.  **Clone the Repository**
     ```bash
-    git clone <repository-url>
-    cd result_management
+    git clone https://github.com/abhighali79/Student_result_analysis.git
     ```
 
 2.  **Install Dependencies**
