@@ -1,0 +1,163 @@
+             ವಿ.ತಾ.ವಿ ಪದವಿ / ಸ್ನಾತಕೋತ್ತರ ಪದವಿ ಪರೀಕ್ಷೆಯ ಸಾಮಯಿಕ ಫಲಿತಾಂಶ ಡಿಸೆಂಬರ್-೨೦೨೩ / ಜನವರಿ-೨೦೨೪.
+
+                   VTU PROVISIONAL RESULTS OF UG / PG December-2023 / January-2024 EXAMINATION.
+
+       University Seat Number                                       : 2JR21EC046
+
+       Student Name                                                 : SOURABH VISHWANATH KARADI
+
+                                                                   Semester       :5
+
+        Subject                  Subject Name                       Internal         External         Total       Result       Announced
+
+          Code                                                       Marks            Marks                                      / Updated
+
+                                                                                                                                      on
+
+       21EC581          IOT(INTERNET OF THINGS)                         47               46             93            P          2024-05-09
+
+                        LAB
+
+        21EC51          DIGITAL COMMUNICATION                           21                1             22            F          2024-05-09
+
+        21EC52          COMPUTER                                        30                8             38            F          2024-05-09
+
+                        ORGANIZATION & ARM
+
+                        MICROCONTROLLERS
+
+        21EC53          COMPUTER                                        27                1             28            F          2024-05-09
+
+                        COMMUNICATION
+
+                        NETWORKS
+
+        21EC54          ELECTROMAGNETIC                                 37                1             38            F          2024-05-09
+
+                        WAVES
+
+       21ECL55          COMMUNICATION LAB II                            40               33             73            P          2024-05-09
+
+       21RMI56          RESEARCH                                        27               24             51            P          2024-05-09
+
+                        METHODOLOGY &
+
+                        INTELLECTUAL PROPERTY
+
+                        RIGHTS
+
+        21CIV57         ENVIRONMENTAL STUDIES                           38               27             65            P          2024-05-09
+
+                                                                   Semester       :4
+
+        Subject                   Subject Name                      Internal         External         Total       Result       Announced
+
+          Code                                                       Marks            Marks                                      / Updated
+                                                                                                                                      on
+
+       21MAT41           COMPLEX                                        27                4             31            F          2024-05-22
+
+                         ANALYSIS,PROBABILITY
+
+                         AND STATISTICAL
+
+                         METHODS
+
+         21EC42          DIGITAL SIGNAL                                 34                4             38            F          2024-05-22
+
+                         PROCESSING
+
+         21EC43          CIRCUITS & CONTROLS                            30                2             32            F          2024-05-22
+
+         21EC44          COMMUNICATION                                  23                0             23            F          2024-05-22
+
+                         THEORY
+
+                                                                   Semester       :3
+
+        Subject                   Subject Name                      Internal         External         Total       Result       Announced
+
+          Code                                                       Marks            Marks                                      / Updated
+
+                                                                                                                                      on
+
+       21MAT31           TRANSFORM CALCULUS,                            23                1             24            F          2024-05-22
+
+                         FOURIER SERIES AND
+
+                         NUMERICAL TECHNIQUES
+
+        21EC381          LD (LOGIC DESIGN) LAB                          40               35             75            P          2024-05-22
+
+                         USING PSPICE / MULTISIM
+
+         21EC33          BASIC SIGNAL                                   35                2             37            F          2024-05-22
+
+                         PROCESSING
+
+         21EC34          ANALOG ELECTRONIC                              39                1             40            F          2024-05-22
+
+                         CIRCUITS
+
+        21ECL35          ANALOG AND DIGITAL                             49               30             79            P          2024-05-22
+
+                         ELECTRONICS LAB
+
+                                                                   Semester       :2
+
+        Subject                   Subject Name                      Internal         External         Total       Result       Announced
+
+          Code                                                       Marks            Marks                                      / Updated
+
+                                                                                                                                      on
+
+       21MAT21           ADVANCED CALCULUS                              35                0             35            F          2024-05-22
+
+                         AND NUMERICAL
+
+                         METHODS
+
+       21PHY22           ENGINEERING PHYSICS                            33                0             33            A          2024-05-22
+
+        21CIV24          ELEMENTS OF CIVIL ENGG                         27                0             27            A          2024-05-22
+
+                         AND MECHANICS
+
+                                                                   Semester       :1
+
+        Subject                  Subject Name                       Internal         External         Total       Result       Announced
+
+          Code                                                       Marks            Marks                                      / Updated
+
+                                                                                                                                      on
+       21CHE12          ENGINEERING CHEMISTRY                           36                8             44            F          2024-05-22
+
+        21PSP13         PROBLEM SOLVING                                 34                9             43            F          2024-05-22
+
+                        THROUGH PROGRAMMING
+
+                                                         ನಾಮಕರಣ / ಸಂಕ್ಷೇಪಣಗಳು
+
+                                                        Nomenclature / Abbreviations
+
+              P -> PASS                F -> FAIL             A -> ABSENT             W -> WITHHELD                X,NE  -> NOT  ELIGIBLE
+
+            Note :
+
+            1) Results of some subjects of some students are not appearing due to           reasons  such  as,
+
+            a) CIE not Available
+
+            b) SEE not available
+
+            because of technical reasons etc, however they will be updated shortly.
+
+            2) Withheld results to be announced later.
+
+                                                                                                                     ಸಹಿ/-
+
+                                                                                                                      Sd/-
+
+                                                                                                       ಕುಲಸಚಿವರು (ಮೌಲ್ಯಮಾಪನ)
+
+                                                                                                    REGISTRAR (EVALUATION)

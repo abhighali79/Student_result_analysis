@@ -1,0 +1,6 @@
+Django
+pandas
+openpyxl
+matplotlib
+Pillow
+numpy

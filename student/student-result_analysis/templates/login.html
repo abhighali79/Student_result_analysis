@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body class="container mt-5">
+    <h1 class="text-center">Faculty Login</h1>
+    <form action="{{ url_for('login') }}" method="post" class="text-center">
+        <input type="text" name="username" placeholder="Username" class="form-control mb-3" required>
+        <input type="password" name="password" placeholder="Password" class="form-control mb-3" required>
+        <button type="submit" class="btn btn-primary">Login</button>
+    </form>
+</body>
+</html>
